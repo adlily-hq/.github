@@ -1,4 +1,4 @@
 # Adlily
-Virtual reality advertising & analytics.
+Virtual reality advertising & analytics platform.
 
 https://adli.ly
